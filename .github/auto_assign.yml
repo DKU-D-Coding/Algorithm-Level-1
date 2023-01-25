@@ -6,11 +6,11 @@ addAssignees: false
 
 # A list of reviewers to be added to pull requests (GitHub user name)
 reviewers: 
-  - @LMS1229
+  - LMS1229
 
 # Uses numberOfReviewers if unset.
 numberOfAssignees: 1
 
 # A list of assignees, overrides reviewers if set
 assignees:
-  - @DeveloperChans
+  - DeveloperChans
